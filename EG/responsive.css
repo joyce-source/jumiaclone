@@ -1,0 +1,41 @@
+@media (max-width: 1068px) {
+    .cooker {
+        display: flex;
+        flex-direction: column;
+        max-width: 600px;
+        height: max-content;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(128, 128, 128, 0.406);
+    }
+
+    .item {
+        background-color: red;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        margin: 10px;
+        max-width: 200px;
+        padding: 10px;
+        text-align: center;
+    }
+    .cooker img{
+        width: 100%;
+        height: auto;
+        border-radius: 10px 10px 0 0;
+    }
+    .items{
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        margin: 10px;
+        max-width: 200px;
+        padding: 10px;
+        text-align: center;
+    }
+    .main{
+        height: max-content;
+    }
+        
+}
