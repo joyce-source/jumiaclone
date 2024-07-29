@@ -1,27 +1,27 @@
 const phones = [
     {
-        image:"../a23.png",
+        image:"../IMG/a23.png",
         name: "Samsung Galaxy A23",
         originalPrice: 27299,
         discountPrice: 22299,
         itemId: "B001"
     },
     {
-        image: "../a33.png",
+        image: "../IMG/a33.png",
         name: "Samsung Galaxy A33 5G",
         originalPrice: 36499,
         discountPrice: 34499,
         itemId: "B002"
     },
     {
-        image: "../a54.png",
+        image: "../IMG/a54.png",
         name: "Samsung Galaxy A54 5G",
         originalPrice: 45499,
         discountPrice: 44499,
         itemId: "B003"
     },
     {
-        image: "../a74.png",
+        image: "../IMG/a74.png",
         name: "Samsung Galaxy A74 5G",
         originalPrice: 55499,
         discountPrice: 53499,
